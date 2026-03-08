@@ -1,5 +1,6 @@
 # Leave Management (Vue + Node + MongoDB Atlas)
 
+live Link:-https://leave-management-3jv9tbxtn-agrimchauhan7500-6820s-projects.vercel.app/
 Basic web app where:
 
 - **Employees**: sign up, log in, apply for leave, and track status (Pending/Approved/Rejected).
